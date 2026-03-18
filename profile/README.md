@@ -23,7 +23,7 @@ Our mission is to let small content creators grow on social media. We provide se
 <div align="center">
   
 
-<img src="https://just-creators.de/wp-content/uploads/2026/02/JustNetwork.png" alt="JustNetwork Logo" width="120" height="120" style="border-radius: 23px;"/>
+<img src="https://ext.just-creators.de/wp-content/uploads/2026/02/JustNetwork.png" alt="JustNetwork Logo" width="120" height="120" style="border-radius: 23px;"/>
 
 ### JustNetwork
 #### Play together with your Community
@@ -53,7 +53,7 @@ Our mission is to let small content creators grow on social media. We provide se
 <div align="center">
 
 
-<img src="https://just-creators.de/wp-content/uploads/2025/11/cropped-WordPress-Favicon-removebg-preview-2.png" alt="JustCreators Logo" width="120" height="120" style="border-radius: 25px;"/>
+<img src="https://ext.just-creators.de/wp-content/uploads/2025/11/cropped-WordPress-Favicon-removebg-preview-2.png" alt="JustCreators Logo" width="120" height="120" style="border-radius: 25px;"/>
 
 ### JustCreators
 #### Your way to grow on social media
