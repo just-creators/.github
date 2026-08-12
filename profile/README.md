@@ -23,25 +23,25 @@ Our mission is to let small content creators grow on social media. We provide se
 <div align="center">
   
 
-<img src="https://ext.just-creators.de/wp-content/uploads/2026/02/JustNetwork.png" alt="JustNetwork Logo" width="120" height="120" style="border-radius: 23px;"/>
+<img src="https://cdn.kabel6499.de/u/Y3dHfu.png" alt="JustNetwork Logo" width="120" height="120" style="border-radius: 23px;"/>
 
 ### JustNetwork
 #### Play together with your Community
 
 </div>
 
-**Intercat with your Community, create Events and have fun on JustNetwork**
+**Play together with Communities from various Content Creator**
 
 #### Highlights:
 ```
 ✓ Perfectly for small content creators
-✓ Create Events just for your Community
+✓ Interact and play with your community
 ✓ powerful servers by ryzehosting
-✓ Submit your own Event Ideas
+✓ Whitelist your Viewer through our website
 ✓ have fun with your community
 ```
 
-#### built with ❤️ by [Florian](https://github.com/Kabel6499) & [knewstm](https://github.com/knewstm)
+#### built with ❤️ by JustCreators Team
 <div align="center">
   
 
@@ -100,6 +100,6 @@ Our mission is to let small content creators grow on social media. We provide se
 
 <div align="center">
 
-<img src="https://ryzehosting.com/assets/partner-badge-bp37Nl3M.svg" width="25%"/>
+<img src="http://cdn.kabel6499.de/u/UkqSoX.svg" width="25%"/>
 
 </div>
